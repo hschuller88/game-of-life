@@ -1,5 +1,8 @@
 package com.wakaleo.gameoflife.domain;
 
+/**
+ * Add a comment: just to change the file
+ */
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
