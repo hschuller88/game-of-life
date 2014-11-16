@@ -41,7 +41,7 @@
                     <stopPort>${jetty.stop.port}</stopPort>
                 </configuration>
 
-      <excutions>
+      <executions>
         <execution>
           <id>start-jetty</id>
           <phase>pre-integration-test</phase>
